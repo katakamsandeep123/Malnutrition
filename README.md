@@ -1,0 +1,8 @@
+# Malnutrition
+Malnutrition EDA
+Malnutrition is a condition that results from eating a diet in which one or more nutrients are either not enough or are too much such that the diet causes health problems.
+
+Wasting : Also known as 'acute malnutrition', wasting is characterised by a rapid deterioration in nutritional status over a short period of time in children under five years of age. Wasted children are at higher risk of dying.
+Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the WHO Child Growth Standards median.
+data available
+Severe Wasting - % of children aged 0–59 months who are below minus three standard deviations from median weight-for-height. Wasting – Moderate and severe: % of children aged 0–59 months who are below minus two standard deviations from median weight-for-height Overweight – Moderate and severe: % aged 0-59 months who are above two standard deviations from median weight-for-height Stunting – Moderate and severe: % of children aged 0–59 months who are below minus two standard deviations from median height-for-age Underweight – Moderate and severe: % of children aged 0–59 months who are below minus two standard deviations from median weight-for-age Income Classification - When it comes to income , the World Bank divides the world's economies into four income groups: high, upper-middle, lower-middle, and low. The income classification is based on a measure of national income per person, or GNI per capita, calculated using the Atlas method
